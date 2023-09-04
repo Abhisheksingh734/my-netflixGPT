@@ -15,6 +15,12 @@
 - Created Redux store with userSlice
 - Implemented SignOut
 - Update profile API call(Firebase)
+- BugFix001: SignUp user display name and profile picture
+- BugFix002: Redirect if user is not loggedIn to LogIn page redirect if loggedIn to Browse Page
+- Unsubscribed to the onAuthStateChange callback
+- Added hardcoded values to constants file
+- Register for TMDB API
+- Get data from TMDB NowPlayingMovies API
 
 # features
 
