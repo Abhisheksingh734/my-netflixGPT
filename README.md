@@ -21,6 +21,13 @@
 - Added hardcoded values to constants file
 - Register for TMDB API
 - Get data from TMDB NowPlayingMovies API
+- Custom hooks
+- Update store with movieData(movieSlice)
+- PLanning for mainContainer and SecondaryContainer
+- Fetched Data for trailer video
+- Update store with trailer video data
+- Embedded the YT video and did autoplay
+- TailwindCSS to make Main container look awsom
 
 # features
 
